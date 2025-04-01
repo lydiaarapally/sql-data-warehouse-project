@@ -65,36 +65,14 @@ For more details, refer to docs/requirements.md.
 
 ## 📂 Repository Structure
 
-data-warehouse-project/
-│
-├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
-│
-├── docs/                               # Project documentation and architecture details
-│   ├── etl.drawio                      # Draw.io file illustrating various ETL techniques and methods
-│   ├── data_architecture.drawio        # Draw.io file depicting the project's architecture
-│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow.drawio                # Draw.io file for the data flow diagram
-│   ├── data_models.drawio              # Draw.io file for data models (star schema)
-│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
-│
-├── scripts/                            # SQL scripts for ETL and transformations
-│   ├── bronze/                         # Scripts for extracting and loading raw data
-│   ├── silver/                         # Scripts for cleaning and transforming data
-│   ├── gold/                           # Scripts for creating analytical models
-│
-├── tests/                              # Test scripts and quality files
-│
-├── README.md                           # Project overview and instructions
-├── LICENSE                             # License information for the repository
-├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project
+<pre> ``` data-warehouse-project/ ├── datasets/ # Raw datasets used for the project (ERP and CRM data) ├── docs/ # Project documentation and architecture details │ ├── etl.drawio # Draw.io file shows all different techniques and methods of ETL │ ├── data_architecture.drawio # Draw.io file shows the project's architecture │ ├── data_catalog.md # Catalog of datasets, including field descriptions and metadata │ ├── data_flow.drawio # Draw.io file for the data flow diagram │ ├── data_models.drawio # Draw.io file for data models (star schema) │ └── naming-conventions.md # Consistent naming guidelines for tables, columns, and files ├── scripts/ # SQL scripts for ETL and transformations │ ├── bronze/ # Scripts for extracting and loading raw data │ ├── silver/ # Scripts for cleaning and transforming data │ └── gold/ # Scripts for creating analytical models ├── tests/ # Test scripts and quality files ├── README.md # Project overview and instructions ├── LICENSE # License information for the repository ├── .gitignore # Files and directories to be ignored by Git └── requirements.txt # Dependencies and requirements for the project ``` </pre>
 
 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 🌟 About Me
-Hi there! I'm Lydia Arapally. I’m an IT professional on a mission to share knowledge and make working with data enjoyable and engaging!
+👋 Hi there! I'm Lydia Arapally — an IT professional on a mission to make data less daunting and more delightful! I’m passionate about learning, sharing, and turning complex problems into clear, creative solutions. Let’s make working with data not just smart, but fun!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-LinkedIn: https://www.linkedin.com/in/lydiaarapally/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydiaarapally/)
