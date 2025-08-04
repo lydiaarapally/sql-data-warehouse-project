@@ -85,9 +85,6 @@ data-warehouse-project/
 └── requirements.txt           # Dependencies and requirements for the project
 ```
 
-🛡️ License
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
-
 🌟 About Me
 👋 Hi there! I'm Lydia Arapally — an IT professional on a mission to make data less daunting and more delightful! I’m passionate about learning, sharing, and turning complex problems into clear, creative solutions. Let’s make working with data not just smart, but fun!
 
